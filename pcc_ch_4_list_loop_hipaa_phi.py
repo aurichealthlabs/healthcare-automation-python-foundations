@@ -1,4 +1,3 @@
-# DELETE THIS LINE BEFORE GIT PUSH = ONLY UPLOAD CH.3 FOR NOW
 # HIPAA Compliance Note: This program uses no PHI.
 # All examples are synthetic/educational.
 
