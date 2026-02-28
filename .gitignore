@@ -205,3 +205,40 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# END original GitHub generated .gitignore
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Healthcare/HIPAA - NEVER commit real patient data
+**/real_data/
+**/patient_data/
+**/phi_data/
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Secrets - NEVER commit API keys or credentials
+# .env # DUPLICATE; commented out
+config.ini
+secrets.json
+credentials.json
+
+# Logs - may contain PHI
+# *.log # DUPLICATE; commented out
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
