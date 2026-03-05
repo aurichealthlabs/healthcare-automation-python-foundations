@@ -28,14 +28,6 @@ Every exercise is designed with real healthcare scenarios:
 - Claims processing logic
 - Workflow automation concepts
 
-## HIPAA Compliance
-
-All code follows HIPAA-aware practices:
-- No real Protected Health Information (PHI) used
-- Synthetic data patterns (TestPatient_001, SAMPLE-MRN-12345)
-- PHI detection and filtering awareness
-- Safe Harbor de-identification principles
-
 ## Resources
 
 HIPAA:
@@ -55,5 +47,43 @@ A.I. / LLM
 - Perplexity
 
 ---
+---
+---
 
+# PORTFOLIO COMPLIANCE STATEMENT
+
+## De-Identification Standard
+
+This portfolio follows the HIPAA "Safe Harbor" de-identification method 
+(45 CFR §164.514(b)(2)), which requires removal of all 18 identifiers 
+listed above.
+
+### Certification Statement
+
+All data in this portfolio is:
+- Completely synthetic (not derived from real patient records)
+- Using reserved/fictional identifiers (555 phone, example.com, etc.)
+- Obviously non-real (Test/Sample/Demo prefixes throughout)
+- Cannot be linked to actual individuals
+
+### Production System Note
+
+These same principles would apply to production healthcare automation 
+systems, with additional requirements:
+- Real PHI would require encryption at rest and in transit
+- All PHI access would be logged with user ID and timestamp
+- Minimum necessary principle enforced
+- Role-based access controls implemented
+- Regular audits and compliance reviews
+
+### References
+
+- **45 CFR §164.514(b)(2)** - Safe Harbor de-identification
+- **45 CFR §164.502(b)** - Minimum necessary standard
+- **45 CFR §164.308** - Administrative safeguards
+- **45 CFR §164.312** - Technical safeguards
+
+For complete HIPAA regulations: https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html
+
+---
 *This is a learning repository demonstrating Python fundamentals applied to healthcare automation with HIPAA compliance awareness. All data is synthetic.*
