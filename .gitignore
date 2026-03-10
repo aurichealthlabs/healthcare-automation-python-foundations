@@ -223,10 +223,15 @@ Thumbs.db
 **/real_data/
 **/patient_data/
 **/phi_data/
+**/claims_data/
+**/analysis_outputs/
+**/investigation_reports/
 *.csv
 *.xlsx
 *.db
 *.sqlite
+*.sql
+*.dump
 
 # Secrets - NEVER commit API keys or credentials
 # .env # DUPLICATE; commented out
