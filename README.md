@@ -1,9 +1,13 @@
-# Healthcare + HIPAA Workflow Automation - Python Foundations
+# Learning HIPAA Compliance & Healthcare Intelligence
 *Auric Health Labs Learning Portfolio* | contact@aurichealthlabs.com
+
+## Refocus Update in Progress
+
+March 2026: Pivoting from Healthcare Automation (general) to Healthcare Intelligence (specific).
 
 ## About
 
-Documenting the process of learning programming, systems design and workflow fundamentals with healthcare automation focus and HIPAA compliance awareness.
+Learning core technical skills for healthcare intelligence analyst roles, with focus on HIPAA compliance, fraud detection, data-driven investigation, and system security.
 
 ## Learning Approach
 
@@ -27,6 +31,16 @@ Every exercise is designed with real healthcare scenarios:
 - Medical coding validation (ICD-10 format checking)
 - Claims processing logic
 - Workflow automation concepts
+
+## Current Focus
+- Python programming (data analysis, automation)
+- HIPAA regulatory framework (Privacy Rule, Security Rule)
+- Healthcare data structures (claims, EHR, billing)
+
+## Specialization Paths
+- Fraud Detection & Analytics
+- Clinical AI/ML & Diagnostic Intelligence
+- Healthcare Cybersecurity & Compliance
 
 ## Resources
 
